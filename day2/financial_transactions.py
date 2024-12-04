@@ -2,6 +2,7 @@ import pyspark
 from pyspark.sql import SparkSession
 import pyspark.sql.functions as f
 from pyspark.sql.functions import count
+from twisted.scripts.htmlizer import header
 
 # Session 생성
 spark = SparkSession.builder.appName("financial_transactions").getOrCreate()
@@ -67,4 +68,8 @@ df_section = df.withColumn(
 df_section_total = df_section.groupBy("amount_bin").agg(f.sum("amount").alias("total_amount"))
 
 # 3. 결과 출력
-df_section_total.write.csv("./Financial_answer2", header=True)
+# df_section_total.write.csv("./Financial_answer2", header=True)
+df_section_total.write.parquet("./Financial_answer2.1")
+
+df2 = spark.read.parquet("./Financial_answer2.1")
+df2.show()

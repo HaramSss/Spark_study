@@ -9,7 +9,7 @@ df = spark.read.csv("./log_data_with_groupid_100k.csv", header=True, inferSchema
 # df.show()
 
 # - **목적**: 플랫폼 전체 성과를 파악하고 성장률 분석.
-# - 월별 생성된 모임 수.
+# 1 - 월별 생성된 모임 수.
 # response : fail 제거 / time -> yyyy-MM / time별
 df_fail = df.filter(df.response != "{'result': failure}")
 
@@ -22,7 +22,7 @@ df_create = df_trformed.filter((df.method == "POST") & (df.url == "/api/v1/group
 df_mon_create = df_create.groupBy("time").agg(F.countDistinct("groupId").alias("new_group_count"))
 # df_mon_create.show()
 
-# - 월별 평균 참여자 수 = 가입된 총 멤버 수 -> 평균
+# 2 - 월별 평균 참여자 수 = 가입된 총 멤버 수 -> 평균
 # groupId별 / method : delete 제거 / count (groupId별, time별)
 df_del = df_trformed.filter(df_trformed.method != "DELETE")
 # df_del.show()

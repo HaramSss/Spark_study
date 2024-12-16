@@ -1,0 +1,256 @@
+2024-12-16 17:33:44 - INFO - ACTION: View Popular Destinations, DETAILS: User 5958 viewed popular destinations: Seoul, Busan, Jeju Island, Gyeongju, Incheon
+2024-12-16 17:33:44 - INFO - ACTION: View Destination Details, DETAILS: User 5958 clicked on destination: Jeju Island. Recommended groups: Jeju Island Explorers, Jeju Island Foodies
+2024-12-16 17:33:44 - INFO - ACTION: Create New Group, DETAILS: User 5958 created a group 'Jeju Adventurers' for destination 'Jeju Island' under category 'Adventure'
+2024-12-16 17:33:44 - INFO - ACTION: Edit Group Details, DETAILS: User 5958 updated group 'Jeju Adventurers' to name 'Jeju Explorers', category 'Travel & Culture', destination 'Seoul'
+2024-12-16 17:33:44 - INFO - ACTION: Send Join Requests, DETAILS: User 5958 sent join requests to members: member1@example.com, member2@example.com for group 'Jeju Explorers'
+2024-12-16 17:33:44 - INFO - ACTION: Accept Join Requests, DETAILS: User 5958 accepted join requests for group 'Jeju Explorers'. Members: member1@example.com, member2@example.com
+2024-12-16 18:26:45,271 - User 1 is browsing groups in the 'Adventure' category.
+2024-12-16 18:26:45,634 - User 1 is viewing active groups in the 'East' region on the map.
+2024-12-16 18:26:46,085 - User 1 is exploring details for the destination 'Marymouth' in the 'East' region.
+2024-12-16 18:26:46,455 - User 1 has submitted a request to join the group 'Young-Hays' in the 'Adventure' category.
+2024-12-16 18:26:46,889 - User 1 has been accepted into the group 'Young-Hays' and is now participating in activities.
+2024-12-16 18:26:47,332 - User 2 is browsing groups in the 'Nature' category.
+2024-12-16 18:26:47,754 - User 2 is viewing active groups in the 'North' region on the map.
+2024-12-16 18:26:48,232 - User 2 is exploring details for the destination 'North Erinfort' in the 'North' region.
+2024-12-16 18:26:48,394 - User 2 has submitted a request to join the group 'Harris, Mitchell and Thompson' in the 'Nature' category.
+2024-12-16 18:26:48,636 - User 2 has been accepted into the group 'Harris, Mitchell and Thompson' and is now participating in activities.
+2024-12-16 18:26:48,987 - User 3 is browsing groups in the 'Adventure' category.
+2024-12-16 18:26:49,195 - User 3 is viewing active groups in the 'Central' region on the map.
+2024-12-16 18:26:49,590 - User 3 is exploring details for the destination 'West Jerome' in the 'Central' region.
+2024-12-16 18:26:49,854 - User 3 has submitted a request to join the group 'Andrade, Smith and Molina' in the 'Adventure' category.
+2024-12-16 18:26:50,323 - User 3 has been accepted into the group 'Andrade, Smith and Molina' and is now participating in activities.
+2024-12-16 18:26:50,805 - User 4 is browsing groups in the 'Cultural' category.
+2024-12-16 18:26:51,100 - User 4 is viewing active groups in the 'North' region on the map.
+2024-12-16 18:26:51,582 - User 4 is exploring details for the destination 'Michaelton' in the 'North' region.
+2024-12-16 18:26:51,725 - User 4 has submitted a request to join the group 'Snow-Lee' in the 'Cultural' category.
+2024-12-16 18:26:52,114 - User 4 has been accepted into the group 'Snow-Lee' and is now participating in activities.
+2024-12-16 18:26:52,274 - User 5 is browsing groups in the 'Historical' category.
+2024-12-16 18:26:52,663 - User 5 is viewing active groups in the 'East' region on the map.
+2024-12-16 18:26:52,903 - User 5 is exploring details for the destination 'Port Michaelstad' in the 'East' region.
+2024-12-16 18:26:53,203 - User 5 has submitted a request to join the group 'Watkins-Brennan' in the 'Historical' category.
+2024-12-16 18:26:53,420 - User 5 has been accepted into the group 'Watkins-Brennan' and is now participating in activities.
+2024-12-16 18:26:53,544 - User 6 is browsing groups in the 'Cultural' category.
+2024-12-16 18:26:53,687 - User 6 is viewing active groups in the 'Central' region on the map.
+2024-12-16 18:26:54,182 - User 6 is exploring details for the destination 'New Amy' in the 'Central' region.
+2024-12-16 18:26:54,440 - User 6 has submitted a request to join the group 'James PLC' in the 'Cultural' category.
+2024-12-16 18:26:54,585 - User 6 has been accepted into the group 'James PLC' and is now participating in activities.
+2024-12-16 18:26:54,975 - User 7 is browsing groups in the 'Historical' category.
+2024-12-16 18:26:55,385 - User 7 is viewing active groups in the 'East' region on the map.
+2024-12-16 18:26:55,761 - User 7 is exploring details for the destination 'North Daniellechester' in the 'East' region.
+2024-12-16 18:26:55,971 - User 7 has submitted a request to join the group 'Harmon-Jones' in the 'Historical' category.
+2024-12-16 18:26:56,446 - User 7 has been accepted into the group 'Harmon-Jones' and is now participating in activities.
+2024-12-16 18:26:56,755 - User 8 is browsing groups in the 'Adventure' category.
+2024-12-16 18:26:57,227 - User 8 is viewing active groups in the 'West' region on the map.
+2024-12-16 18:26:57,599 - User 8 is exploring details for the destination 'South Troybury' in the 'West' region.
+2024-12-16 18:26:57,771 - User 8 has submitted a request to join the group 'Johnson Inc' in the 'Adventure' category.
+2024-12-16 18:26:58,206 - User 8 has been accepted into the group 'Johnson Inc' and is now participating in activities.
+2024-12-16 18:26:58,597 - User 9 is browsing groups in the 'Historical' category.
+2024-12-16 18:26:58,896 - User 9 is viewing active groups in the 'West' region on the map.
+2024-12-16 18:26:59,333 - User 9 is exploring details for the destination 'Contrerasburgh' in the 'West' region.
+2024-12-16 18:26:59,682 - User 9 has submitted a request to join the group 'Reese, Cunningham and Williams' in the 'Historical' category.
+2024-12-16 18:26:59,852 - User 9 has been accepted into the group 'Reese, Cunningham and Williams' and is now participating in activities.
+2024-12-16 18:27:00,300 - User 10 is browsing groups in the 'Relaxation' category.
+2024-12-16 18:27:00,777 - User 10 is viewing active groups in the 'Central' region on the map.
+2024-12-16 18:27:00,881 - User 10 is exploring details for the destination 'South Patrickport' in the 'Central' region.
+2024-12-16 18:27:01,105 - User 10 has submitted a request to join the group 'Lee-Blanchard' in the 'Relaxation' category.
+2024-12-16 18:27:01,309 - User 10 has been accepted into the group 'Lee-Blanchard' and is now participating in activities.
+2024-12-16 18:27:01,461 - User 11 is browsing groups in the 'Adventure' category.
+2024-12-16 18:27:01,636 - User 11 is viewing active groups in the 'Central' region on the map.
+2024-12-16 18:27:02,005 - User 11 is exploring details for the destination 'Lake Jorgeton' in the 'Central' region.
+2024-12-16 18:27:02,420 - User 11 has submitted a request to join the group 'Cox-Romero' in the 'Adventure' category.
+2024-12-16 18:27:02,697 - User 11 has been accepted into the group 'Cox-Romero' and is now participating in activities.
+2024-12-16 18:27:03,087 - User 12 is browsing groups in the 'Nature' category.
+2024-12-16 18:27:04,259 - User 12 is viewing active groups in the 'South' region on the map.
+2024-12-16 18:27:04,406 - User 12 is exploring details for the destination 'West Stephaniemouth' in the 'South' region.
+2024-12-16 18:27:04,703 - User 12 has submitted a request to join the group 'Vargas Ltd' in the 'Nature' category.
+2024-12-16 18:27:04,902 - User 12 has been accepted into the group 'Vargas Ltd' and is now participating in activities.
+2024-12-16 18:27:05,134 - User 13 is browsing groups in the 'Nature' category.
+2024-12-16 18:27:05,248 - User 13 is viewing active groups in the 'Central' region on the map.
+2024-12-16 18:27:05,442 - User 13 is exploring details for the destination 'Lake Kari' in the 'Central' region.
+2024-12-16 18:27:05,683 - User 13 has submitted a request to join the group 'Wall-Good' in the 'Nature' category.
+2024-12-16 18:27:05,793 - User 13 has been accepted into the group 'Wall-Good' and is now participating in activities.
+2024-12-16 18:27:06,246 - User 14 is browsing groups in the 'Relaxation' category.
+2024-12-16 18:27:06,404 - User 14 is viewing active groups in the 'South' region on the map.
+2024-12-16 18:27:06,781 - User 14 is exploring details for the destination 'Davidside' in the 'South' region.
+2024-12-16 18:27:07,154 - User 14 has submitted a request to join the group 'Arnold-Case' in the 'Relaxation' category.
+2024-12-16 18:27:07,582 - User 14 has been accepted into the group 'Arnold-Case' and is now participating in activities.
+2024-12-16 18:27:07,975 - User 15 is browsing groups in the 'Adventure' category.
+2024-12-16 18:27:08,169 - User 15 is viewing active groups in the 'East' region on the map.
+2024-12-16 18:27:08,394 - User 15 is exploring details for the destination 'New Donna' in the 'East' region.
+2024-12-16 18:27:08,708 - User 15 has submitted a request to join the group 'Collins Inc' in the 'Adventure' category.
+2024-12-16 18:27:08,853 - User 15 has been accepted into the group 'Collins Inc' and is now participating in activities.
+2024-12-16 18:27:09,238 - User 16 is browsing groups in the 'Adventure' category.
+2024-12-16 18:27:09,658 - User 16 is viewing active groups in the 'South' region on the map.
+2024-12-16 18:27:09,930 - User 16 is exploring details for the destination 'Washingtonview' in the 'South' region.
+2024-12-16 18:27:10,245 - User 16 has submitted a request to join the group 'Thompson, Beard and Myers' in the 'Adventure' category.
+2024-12-16 18:27:10,524 - User 16 has been accepted into the group 'Thompson, Beard and Myers' and is now participating in activities.
+2024-12-16 18:27:10,720 - User 17 is browsing groups in the 'Cultural' category.
+2024-12-16 18:27:11,015 - User 17 is viewing active groups in the 'North' region on the map.
+2024-12-16 18:27:11,409 - User 17 is exploring details for the destination 'Lake Cassandrafort' in the 'North' region.
+2024-12-16 18:27:11,540 - User 17 has submitted a request to join the group 'Garza, Guerra and Chen' in the 'Cultural' category.
+2024-12-16 18:27:12,026 - User 17 has been accepted into the group 'Garza, Guerra and Chen' and is now participating in activities.
+2024-12-16 18:27:12,433 - User 18 is browsing groups in the 'Nature' category.
+2024-12-16 18:27:12,544 - User 18 is viewing active groups in the 'West' region on the map.
+2024-12-16 18:27:12,768 - User 18 is exploring details for the destination 'Erinbury' in the 'West' region.
+2024-12-16 18:27:12,976 - User 18 has submitted a request to join the group 'Garza and Sons' in the 'Nature' category.
+2024-12-16 18:27:13,419 - User 18 has been accepted into the group 'Garza and Sons' and is now participating in activities.
+2024-12-16 18:27:13,588 - User 19 is browsing groups in the 'Nature' category.
+2024-12-16 18:27:13,770 - User 19 is viewing active groups in the 'Central' region on the map.
+2024-12-16 18:27:13,959 - User 19 is exploring details for the destination 'Port Michael' in the 'Central' region.
+2024-12-16 18:27:14,249 - User 19 has submitted a request to join the group 'Greer, Jackson and Turner' in the 'Nature' category.
+2024-12-16 18:27:14,691 - User 19 has been accepted into the group 'Greer, Jackson and Turner' and is now participating in activities.
+2024-12-16 18:27:14,945 - User 20 is browsing groups in the 'Cultural' category.
+2024-12-16 18:27:15,439 - User 20 is viewing active groups in the 'South' region on the map.
+2024-12-16 18:27:15,892 - User 20 is exploring details for the destination 'Port Lisatown' in the 'South' region.
+2024-12-16 18:27:16,169 - User 20 has submitted a request to join the group 'Lopez Ltd' in the 'Cultural' category.
+2024-12-16 18:27:16,360 - User 20 has been accepted into the group 'Lopez Ltd' and is now participating in activities.
+2024-12-16 18:27:16,846 - User 21 is browsing groups in the 'Relaxation' category.
+2024-12-16 18:27:17,030 - User 21 is viewing active groups in the 'South' region on the map.
+2024-12-16 18:27:17,359 - User 21 is exploring details for the destination 'New Kristina' in the 'South' region.
+2024-12-16 18:27:17,814 - User 21 has submitted a request to join the group 'King, Adams and Black' in the 'Relaxation' category.
+2024-12-16 18:27:18,055 - User 21 has been accepted into the group 'King, Adams and Black' and is now participating in activities.
+2024-12-16 18:27:18,538 - User 22 is browsing groups in the 'Nature' category.
+2024-12-16 18:27:18,903 - User 22 is viewing active groups in the 'West' region on the map.
+2024-12-16 18:27:19,162 - User 22 is exploring details for the destination 'Kaylaland' in the 'West' region.
+2024-12-16 18:27:19,610 - User 22 has submitted a request to join the group 'Foster Group' in the 'Nature' category.
+2024-12-16 18:27:19,893 - User 22 has been accepted into the group 'Foster Group' and is now participating in activities.
+2024-12-16 18:27:20,271 - User 23 is browsing groups in the 'Nature' category.
+2024-12-16 18:27:20,494 - User 23 is viewing active groups in the 'Central' region on the map.
+2024-12-16 18:27:20,690 - User 23 is exploring details for the destination 'East Kelly' in the 'Central' region.
+2024-12-16 18:27:21,050 - User 23 has submitted a request to join the group 'Townsend-Moody' in the 'Nature' category.
+2024-12-16 18:27:21,539 - User 23 has been accepted into the group 'Townsend-Moody' and is now participating in activities.
+2024-12-16 18:27:21,974 - User 24 is browsing groups in the 'Relaxation' category.
+2024-12-16 18:27:22,286 - User 24 is viewing active groups in the 'East' region on the map.
+2024-12-16 18:27:22,662 - User 24 is exploring details for the destination 'South Emily' in the 'East' region.
+2024-12-16 18:27:23,063 - User 24 has submitted a request to join the group 'Lopez LLC' in the 'Relaxation' category.
+2024-12-16 18:27:23,526 - User 24 has been accepted into the group 'Lopez LLC' and is now participating in activities.
+2024-12-16 18:27:23,720 - User 25 is browsing groups in the 'Historical' category.
+2024-12-16 18:27:24,021 - User 25 is viewing active groups in the 'West' region on the map.
+2024-12-16 18:27:24,346 - User 25 is exploring details for the destination 'New Michael' in the 'West' region.
+2024-12-16 18:27:24,528 - User 25 has submitted a request to join the group 'Houston, Hayes and Patterson' in the 'Historical' category.
+2024-12-16 18:27:24,749 - User 25 has been accepted into the group 'Houston, Hayes and Patterson' and is now participating in activities.
+2024-12-16 18:27:24,954 - User 26 is browsing groups in the 'Adventure' category.
+2024-12-16 18:27:25,305 - User 26 is viewing active groups in the 'Central' region on the map.
+2024-12-16 18:27:25,612 - User 26 is exploring details for the destination 'Nancychester' in the 'Central' region.
+2024-12-16 18:27:25,893 - User 26 has submitted a request to join the group 'Hensley Group' in the 'Adventure' category.
+2024-12-16 18:27:26,299 - User 26 has been accepted into the group 'Hensley Group' and is now participating in activities.
+2024-12-16 18:27:26,456 - User 27 is browsing groups in the 'Relaxation' category.
+2024-12-16 18:27:26,870 - User 27 is viewing active groups in the 'East' region on the map.
+2024-12-16 18:27:27,053 - User 27 is exploring details for the destination 'Ellismouth' in the 'East' region.
+2024-12-16 18:27:27,483 - User 27 has submitted a request to join the group 'Mullen Inc' in the 'Relaxation' category.
+2024-12-16 18:27:27,732 - User 27 has been accepted into the group 'Mullen Inc' and is now participating in activities.
+2024-12-16 18:27:28,216 - User 28 is browsing groups in the 'Cultural' category.
+2024-12-16 18:27:28,334 - User 28 is viewing active groups in the 'East' region on the map.
+2024-12-16 18:27:28,478 - User 28 is exploring details for the destination 'South Karenmouth' in the 'East' region.
+2024-12-16 18:27:28,601 - User 28 has submitted a request to join the group 'Cole Inc' in the 'Cultural' category.
+2024-12-16 18:27:29,059 - User 28 has been accepted into the group 'Cole Inc' and is now participating in activities.
+2024-12-16 18:27:29,232 - User 29 is browsing groups in the 'Adventure' category.
+2024-12-16 18:27:29,374 - User 29 is viewing active groups in the 'Central' region on the map.
+2024-12-16 18:27:29,873 - User 29 is exploring details for the destination 'Cannonland' in the 'Central' region.
+2024-12-16 18:27:30,069 - User 29 has submitted a request to join the group 'Perez and Sons' in the 'Adventure' category.
+2024-12-16 18:27:30,389 - User 29 has been accepted into the group 'Perez and Sons' and is now participating in activities.
+2024-12-16 18:27:30,563 - User 30 is browsing groups in the 'Adventure' category.
+2024-12-16 18:27:30,738 - User 30 is viewing active groups in the 'North' region on the map.
+2024-12-16 18:27:31,044 - User 30 is exploring details for the destination 'Michaelmouth' in the 'North' region.
+2024-12-16 18:27:31,432 - User 30 has submitted a request to join the group 'Sherman Inc' in the 'Adventure' category.
+2024-12-16 18:27:31,654 - User 30 has been accepted into the group 'Sherman Inc' and is now participating in activities.
+2024-12-16 18:27:32,127 - User 31 is browsing groups in the 'Historical' category.
+2024-12-16 18:27:32,536 - User 31 is viewing active groups in the 'West' region on the map.
+2024-12-16 18:27:33,035 - User 31 is exploring details for the destination 'Port Timothy' in the 'West' region.
+2024-12-16 18:27:33,235 - User 31 has submitted a request to join the group 'Murphy PLC' in the 'Historical' category.
+2024-12-16 18:27:33,620 - User 31 has been accepted into the group 'Murphy PLC' and is now participating in activities.
+2024-12-16 18:27:33,912 - User 32 is browsing groups in the 'Historical' category.
+2024-12-16 18:27:34,293 - User 32 is viewing active groups in the 'East' region on the map.
+2024-12-16 18:27:34,449 - User 32 is exploring details for the destination 'Jasonville' in the 'East' region.
+2024-12-16 18:27:34,680 - User 32 has submitted a request to join the group 'Hall Group' in the 'Historical' category.
+2024-12-16 18:27:35,150 - User 32 has been accepted into the group 'Hall Group' and is now participating in activities.
+2024-12-16 18:27:35,539 - User 33 is browsing groups in the 'Relaxation' category.
+2024-12-16 18:27:35,970 - User 33 is viewing active groups in the 'North' region on the map.
+2024-12-16 18:27:36,205 - User 33 is exploring details for the destination 'Port Kevin' in the 'North' region.
+2024-12-16 18:27:36,337 - User 33 has submitted a request to join the group 'Bell-Guzman' in the 'Relaxation' category.
+2024-12-16 18:27:36,512 - User 33 has been accepted into the group 'Bell-Guzman' and is now participating in activities.
+2024-12-16 18:27:37,740 - User 34 is browsing groups in the 'Nature' category.
+2024-12-16 18:27:38,015 - User 34 is viewing active groups in the 'East' region on the map.
+2024-12-16 18:27:38,362 - User 34 is exploring details for the destination 'Suzanneton' in the 'East' region.
+2024-12-16 18:27:38,669 - User 34 has submitted a request to join the group 'Bishop-Hebert' in the 'Nature' category.
+2024-12-16 18:27:39,010 - User 34 has been accepted into the group 'Bishop-Hebert' and is now participating in activities.
+2024-12-16 18:27:39,322 - User 35 is browsing groups in the 'Adventure' category.
+2024-12-16 18:27:39,429 - User 35 is viewing active groups in the 'South' region on the map.
+2024-12-16 18:27:39,589 - User 35 is exploring details for the destination 'Rebeccachester' in the 'South' region.
+2024-12-16 18:27:39,724 - User 35 has submitted a request to join the group 'Salazar, Schmidt and Smith' in the 'Adventure' category.
+2024-12-16 18:27:39,840 - User 35 has been accepted into the group 'Salazar, Schmidt and Smith' and is now participating in activities.
+2024-12-16 18:27:39,977 - User 36 is browsing groups in the 'Nature' category.
+2024-12-16 18:27:40,266 - User 36 is viewing active groups in the 'South' region on the map.
+2024-12-16 18:27:40,707 - User 36 is exploring details for the destination 'New Tonyville' in the 'South' region.
+2024-12-16 18:27:40,884 - User 36 has submitted a request to join the group 'Campbell and Sons' in the 'Nature' category.
+2024-12-16 18:27:41,059 - User 36 has been accepted into the group 'Campbell and Sons' and is now participating in activities.
+2024-12-16 18:27:41,357 - User 37 is browsing groups in the 'Relaxation' category.
+2024-12-16 18:27:41,604 - User 37 is viewing active groups in the 'East' region on the map.
+2024-12-16 18:27:41,946 - User 37 is exploring details for the destination 'North Crystalbury' in the 'East' region.
+2024-12-16 18:27:42,121 - User 37 has submitted a request to join the group 'Hendricks, Chavez and Frazier' in the 'Relaxation' category.
+2024-12-16 18:27:42,416 - User 37 has been accepted into the group 'Hendricks, Chavez and Frazier' and is now participating in activities.
+2024-12-16 18:27:42,782 - User 38 is browsing groups in the 'Adventure' category.
+2024-12-16 18:27:43,091 - User 38 is viewing active groups in the 'South' region on the map.
+2024-12-16 18:27:43,282 - User 38 is exploring details for the destination 'South Don' in the 'South' region.
+2024-12-16 18:27:43,397 - User 38 has submitted a request to join the group 'Williams, Stanton and Woodward' in the 'Adventure' category.
+2024-12-16 18:27:43,669 - User 38 has been accepted into the group 'Williams, Stanton and Woodward' and is now participating in activities.
+2024-12-16 18:27:44,142 - User 39 is browsing groups in the 'Adventure' category.
+2024-12-16 18:27:44,260 - User 39 is viewing active groups in the 'West' region on the map.
+2024-12-16 18:27:44,443 - User 39 is exploring details for the destination 'Nicholasville' in the 'West' region.
+2024-12-16 18:27:44,605 - User 39 has submitted a request to join the group 'Taylor-Smith' in the 'Adventure' category.
+2024-12-16 18:27:44,918 - User 39 has been accepted into the group 'Taylor-Smith' and is now participating in activities.
+2024-12-16 18:27:45,158 - User 40 is browsing groups in the 'Adventure' category.
+2024-12-16 18:27:45,631 - User 40 is viewing active groups in the 'East' region on the map.
+2024-12-16 18:27:46,046 - User 40 is exploring details for the destination 'Guzmanfort' in the 'East' region.
+2024-12-16 18:27:46,383 - User 40 has submitted a request to join the group 'Walker, Torres and Davidson' in the 'Adventure' category.
+2024-12-16 18:27:46,794 - User 40 has been accepted into the group 'Walker, Torres and Davidson' and is now participating in activities.
+2024-12-16 18:27:47,195 - User 41 is browsing groups in the 'Adventure' category.
+2024-12-16 18:27:47,404 - User 41 is viewing active groups in the 'North' region on the map.
+2024-12-16 18:27:47,598 - User 41 is exploring details for the destination 'Kingmouth' in the 'North' region.
+2024-12-16 18:27:48,000 - User 41 has submitted a request to join the group 'Lambert-Carter' in the 'Adventure' category.
+2024-12-16 18:27:48,277 - User 41 has been accepted into the group 'Lambert-Carter' and is now participating in activities.
+2024-12-16 18:27:48,630 - User 42 is browsing groups in the 'Historical' category.
+2024-12-16 18:27:48,917 - User 42 is viewing active groups in the 'East' region on the map.
+2024-12-16 18:27:49,404 - User 42 is exploring details for the destination 'Evansfurt' in the 'East' region.
+2024-12-16 18:27:49,571 - User 42 has submitted a request to join the group 'Powell, Ortiz and Guerrero' in the 'Historical' category.
+2024-12-16 18:27:50,001 - User 42 has been accepted into the group 'Powell, Ortiz and Guerrero' and is now participating in activities.
+2024-12-16 18:27:50,105 - User 43 is browsing groups in the 'Historical' category.
+2024-12-16 18:27:50,542 - User 43 is viewing active groups in the 'South' region on the map.
+2024-12-16 18:27:50,897 - User 43 is exploring details for the destination 'Smithshire' in the 'South' region.
+2024-12-16 18:27:51,055 - User 43 has submitted a request to join the group 'Smith-Lawrence' in the 'Historical' category.
+2024-12-16 18:27:51,225 - User 43 has been accepted into the group 'Smith-Lawrence' and is now participating in activities.
+2024-12-16 18:27:51,721 - User 44 is browsing groups in the 'Nature' category.
+2024-12-16 18:27:52,028 - User 44 is viewing active groups in the 'East' region on the map.
+2024-12-16 18:27:52,234 - User 44 is exploring details for the destination 'Lake Thomas' in the 'East' region.
+2024-12-16 18:27:52,577 - User 44 has submitted a request to join the group 'Walker-Curtis' in the 'Nature' category.
+2024-12-16 18:27:52,779 - User 44 has been accepted into the group 'Walker-Curtis' and is now participating in activities.
+2024-12-16 18:27:53,008 - User 45 is browsing groups in the 'Adventure' category.
+2024-12-16 18:27:53,500 - User 45 is viewing active groups in the 'North' region on the map.
+2024-12-16 18:27:53,772 - User 45 is exploring details for the destination 'Anthonyton' in the 'North' region.
+2024-12-16 18:27:54,093 - User 45 has submitted a request to join the group 'Bailey, Nicholson and Day' in the 'Adventure' category.
+2024-12-16 18:27:54,235 - User 45 has been accepted into the group 'Bailey, Nicholson and Day' and is now participating in activities.
+2024-12-16 18:27:54,420 - User 46 is browsing groups in the 'Relaxation' category.
+2024-12-16 18:27:54,621 - User 46 is viewing active groups in the 'North' region on the map.
+2024-12-16 18:27:55,081 - User 46 is exploring details for the destination 'Woodburgh' in the 'North' region.
+2024-12-16 18:27:55,360 - User 46 has submitted a request to join the group 'Hawkins-Joseph' in the 'Relaxation' category.
+2024-12-16 18:27:55,695 - User 46 has been accepted into the group 'Hawkins-Joseph' and is now participating in activities.
+2024-12-16 18:27:55,810 - User 47 is browsing groups in the 'Historical' category.
+2024-12-16 18:27:56,082 - User 47 is viewing active groups in the 'Central' region on the map.
+2024-12-16 18:27:56,479 - User 47 is exploring details for the destination 'East Allisonfurt' in the 'Central' region.
+2024-12-16 18:27:56,807 - User 47 has submitted a request to join the group 'Hurley Group' in the 'Historical' category.
+2024-12-16 18:27:57,216 - User 47 has been accepted into the group 'Hurley Group' and is now participating in activities.
+2024-12-16 18:27:57,435 - User 48 is browsing groups in the 'Cultural' category.
+2024-12-16 18:27:57,767 - User 48 is viewing active groups in the 'West' region on the map.
+2024-12-16 18:27:58,164 - User 48 is exploring details for the destination 'Port Ashleyberg' in the 'West' region.
+2024-12-16 18:27:58,422 - User 48 has submitted a request to join the group 'Bartlett-Perez' in the 'Cultural' category.
+2024-12-16 18:27:58,613 - User 48 has been accepted into the group 'Bartlett-Perez' and is now participating in activities.
+2024-12-16 18:27:58,916 - User 49 is browsing groups in the 'Relaxation' category.
+2024-12-16 18:27:59,402 - User 49 is viewing active groups in the 'Central' region on the map.
+2024-12-16 18:27:59,878 - User 49 is exploring details for the destination 'Riveraton' in the 'Central' region.
+2024-12-16 18:28:00,167 - User 49 has submitted a request to join the group 'Mcfarland, Long and Jones' in the 'Relaxation' category.
+2024-12-16 18:28:00,573 - User 49 has been accepted into the group 'Mcfarland, Long and Jones' and is now participating in activities.
+2024-12-16 18:28:00,931 - User 50 is browsing groups in the 'Historical' category.
+2024-12-16 18:28:01,372 - User 50 is viewing active groups in the 'South' region on the map.
+2024-12-16 18:28:01,672 - User 50 is exploring details for the destination 'Braunville' in the 'South' region.
+2024-12-16 18:28:01,862 - User 50 has submitted a request to join the group 'Page-Smith' in the 'Historical' category.
+2024-12-16 18:28:02,263 - User 50 has been accepted into the group 'Page-Smith' and is now participating in activities.

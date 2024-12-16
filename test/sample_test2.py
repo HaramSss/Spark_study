@@ -26,7 +26,7 @@ df_new_member = df_trans.withColumn(
     datediff(to_date(F.col("time")), to_date(F.col("signupTime")))
 ).filter(F.col("new_signup") <= 30)
 
-# 모임 참여율 : 모임 참여 수 (participation)를 특정 그룹(groupId)의 전체 사용자 수로 나눈 값
+# 모임 참여율 : 모임 참여 수(participation)를 특정 그룹(groupId)의 전체 사용자 수로 나눈 값
 df_participation_rate = (
     df_new_member
     .groupBy("groupId")
@@ -52,7 +52,7 @@ df_participation_rate_specific = (
         Fsum("participation").alias("new_participation"),
         Fcount(F.col("memberId")).alias("new_members"),
     )
-    .withColumn("participation_rate", F.col("new_participation") / F.col("new_members"))
+    .withColumn("participation_rate_specific", F.col("new_participation") / F.col("new_members"))
 )
 
 
@@ -75,14 +75,14 @@ df_recent_rate = (
     df_recent_activity
     .groupBy("groupId")
     .agg(
-        Fsum(F.col("participation")).alias("total_recent_participation"),
+        Fsum(F.col("participation")).alias("recent_participation"),
         Fcount(F.col("memberId")).alias("active_old_members"),
     )
     .withColumn(
         "recent_rate",
-        F.col("total_recent_participation") / F.col("active_old_members"))
+        F.col("recent_participation") / F.col("active_old_members"))
 )
-# df_recent_rate.show()
+df_recent_rate.show()
 
 
 # 4 - 특정 기간(3개월) 동안 모임 참여를 계속한 사용자 비율.
@@ -129,4 +129,4 @@ df_group_stats = df_group_stats.withColumn(
     F.col("consecutive_members") / F.col("total_members")
 )
 
-df_group_stats.show()
+# df_group_stats.show()
